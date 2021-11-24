@@ -124,3 +124,7 @@ body{
 .layout p, .layout h2 {
     color:white;
 }
+
+.border-right {
+    border-right: 0px;
+}
