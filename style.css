@@ -7,6 +7,13 @@ header {
     height: 200px;
 }
 
+#header {
+    background-image: url("./images/pokemon-team-rocket.jpg");
+    background-position: top;
+    height: 50vh;
+    background-size: cover;
+  }
+
 .light {
     width: 50%;
     margin: 15px auto 10px;
