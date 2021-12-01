@@ -53,6 +53,18 @@ header {
     background-color: rebeccapurple;
     border-color: rebeccapurple;
 }
+
+.btn-outline-electrik {
+    color: rgb(179, 179, 24) !important;
+    border-color: rgb(179, 179, 24);
+}
+
+.btn-outline-electrik:hover {
+    color: #FFF !important;
+    background-color: yellow;
+    border-color: yellow;
+}
+
 .badge {
     margin-right: 4px;
     font-size: 60%;
