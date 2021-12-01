@@ -118,6 +118,7 @@ footer {
 
 body{
     background: #EEE;
+    overflow-x: hidden;
 }
 
 .semi-light {
