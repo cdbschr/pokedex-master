@@ -115,7 +115,9 @@ footer {
 .badge-red{
     background-color: red;
 }
-
+.badge-yellow{
+    background-color: rgb(204, 204, 0);
+}
 body{
     background: #EEE;
 }
