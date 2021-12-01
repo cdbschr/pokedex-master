@@ -97,8 +97,13 @@ footer {
     background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(145,8,8,1) 100%);
 }
 
-
-
+.layout #left-bar {
+   border-right: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
 
 .mar-top {
     margin-top: 25px;
