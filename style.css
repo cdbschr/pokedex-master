@@ -8,7 +8,14 @@ header {
 }
 
 .light {
-    color: red;
+    width: 50%;
+    margin: 15px auto 10px;
+    color: white;
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+    
 }
 
 .layout {
@@ -76,17 +83,15 @@ header {
     font-size: 3em;
 }
 
-.border-right {
-    min-height: 180px;
-    border-right: 10px solid #FFFFFF !important;
-}
-
 footer {
     min-height: 200px;
     margin-top: 30px;
     border-top: 4px solid #000;
     background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(145,8,8,1) 100%);
 }
+
+
+
 
 .mar-top {
     margin-top: 25px;
