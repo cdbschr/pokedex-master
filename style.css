@@ -120,9 +120,16 @@ footer {
 .badge-red{
     background-color: red;
 }
+
+.badge-orange{
+    background-color: orange;
+}
+
+
 .badge-yellow{
     background-color: rgb(204, 204, 0);
 }
+
 body{
     background: #EEE;
     overflow-x: hidden;
